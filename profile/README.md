@@ -16,9 +16,7 @@ We are **jambo.team**, a product studio working across Tanzania and Korea. We bu
 | **[RunEnv](https://runenv.dev/)** | Manage team secrets and deliver them to processes at runtime. |
 | **[Kumbuka](https://kumbuka.biz/)** | Capture business cards, remember relationship context and follow through as a team. |
 | **[HostLink](https://hostlink.io/)** | Bring your profile, links and storefront into one shareable place. |
-| **[Jambo Work](https://jambo.team/projects/jambo-work)** | Organize work and collaboration for teams and businesses. |
 | **[Bogoseo](https://jambo.team/projects/bogoseo)** | Connect field inspections with digital reports. |
-| **[Jambo Market](https://jambo.team/projects/jambo-market)** | Connect local buyers and sellers. |
 
 ## Public repositories
 
