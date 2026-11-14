@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+  <title id="title">jambo.team</title>
+  <desc id="desc">Hope together. Grow together. A product studio across Tanzania and Korea.</desc>
+  <rect width="1200" height="300" rx="18" fill="#092B23"/>
+  <path d="M847 0h353v300H847z" fill="#0C382C"/>
+  <circle cx="1102" cy="54" r="154" fill="none" stroke="#21543E" stroke-width="1"/>
+  <circle cx="1102" cy="54" r="212" fill="none" stroke="#21543E" stroke-width="1"/>
+  <circle cx="1102" cy="54" r="270" fill="none" stroke="#21543E" stroke-width="1"/>
+  <path d="M922 238V129a38 38 0 0 1 76 0v66a38 38 0 0 0 76 0V70" fill="none" stroke="#92E8AC" stroke-width="16" stroke-linecap="round"/>
+  <circle cx="922" cy="238" r="10" fill="#92E8AC"/>
+  <circle cx="1074" cy="70" r="10" fill="#92E8AC"/>
+  <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif">
+    <text x="56" y="66" fill="#92E8AC" font-size="16" font-weight="600" letter-spacing="3">JAMBO.TEAM</text>
+    <text x="53" y="135" fill="#F3F8EE" font-size="54" font-weight="700" letter-spacing="-1.7">Hope together.</text>
+    <text x="53" y="195" fill="#F3F8EE" font-size="54" font-weight="700" letter-spacing="-1.7">Grow together.</text>
+    <text x="56" y="252" fill="#B5CBBE" font-size="18">A product studio across Tanzania and Korea.</text>
+  </g>
+</svg>

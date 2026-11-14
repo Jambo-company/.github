@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260" role="img" aria-labelledby="title desc">
+  <title id="title">jambo.team Engineering</title>
+  <desc id="desc">Find your product. Build with context.</desc>
+  <rect width="1200" height="260" rx="18" fill="#092B23"/>
+  <path d="M850 0h350v260H850z" fill="#0C382C"/>
+  <g fill="none" stroke="#397354" stroke-width="2">
+    <path d="M906 62h190v136H906z"/>
+    <path d="M944 62v136M906 106h190M906 152h190"/>
+  </g>
+  <g fill="#92E8AC">
+    <rect x="956" y="77" width="124" height="12" rx="6"/>
+    <rect x="956" y="122" width="83" height="12" rx="6"/>
+    <rect x="956" y="168" width="102" height="12" rx="6"/>
+  </g>
+  <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif">
+    <text x="56" y="61" fill="#92E8AC" font-size="16" font-weight="600" letter-spacing="3">JAMBO.TEAM / ENGINEERING</text>
+    <text x="53" y="126" fill="#F3F8EE" font-size="48" font-weight="700" letter-spacing="-1.4">Find your product.</text>
+    <text x="53" y="183" fill="#F3F8EE" font-size="48" font-weight="700" letter-spacing="-1.4">Build with context.</text>
+    <text x="56" y="226" fill="#B5CBBE" font-size="17">Repositories, project guides and shared tools.</text>
+  </g>
+</svg>
